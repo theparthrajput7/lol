@@ -1,3 +1,3 @@
 # lol
-funny
+This is My first Repository .
 Author - Parth 
